@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankajkumar002
-- 👀 I’m interested in solving problems using AI/ML & Analytics
-- 🌱 I’m currently learning AI/ML and Data Sciences
+- 👀 I’m interested in solving problems using AI/ML
+- 🌱 I'm currently working on GenAI products and WatchTower
 - 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me - https://www.linkedin.com/in/pankaj-kumar-9480862869/
 
